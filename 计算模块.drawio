@@ -16,7 +16,7 @@
         <mxCell id="Olq3GLhJZnIr8kntyPNB-2" value="update更新数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Olq3GLhJZnIr8kntyPNB-3" value="将函数传递给ani， 用于计算/更细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-3" value="将函数传递给ani， 用于计算/更新数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="614" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
