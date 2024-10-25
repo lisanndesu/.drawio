@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.8.2">
   <diagram name="第 1 页" id="0comNLwIRsVqoarwiSDB">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Olq3GLhJZnIr8kntyPNB-1" target="Olq3GLhJZnIr8kntyPNB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-1" value="&lt;span style=&quot;font-size:9.5pt;font-family:Consolas;&lt;br/&gt;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;color:#05073B;mso-ansi-language:&lt;br/&gt;DE;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;DE&quot;&gt;both_newtown_and_michellson&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:9.5pt;font-family:Consolas;&lt;br/&gt;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;color:#05073B;mso-ansi-language:&lt;br/&gt;DE;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;DE&quot;&gt;计算各点振幅&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Olq3GLhJZnIr8kntyPNB-2" target="Olq3GLhJZnIr8kntyPNB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-2" value="update更新数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Olq3GLhJZnIr8kntyPNB-3" value="将函数传递给ani， 用于计算/更细数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
